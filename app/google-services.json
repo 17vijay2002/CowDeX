@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165237288103",
+    "project_id": "cowdex-7725f",
+    "storage_bucket": "cowdex-7725f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165237288103:android:6c76ced16433abe5193f82",
+        "android_client_info": {
+          "package_name": "com.example.cowdex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165237288103-j0597t8mjpa7quv7dcjhioe4pj9fl8v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNfGFKc6QXNXqTsPUHXjISPfU81HsmLVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165237288103-j0597t8mjpa7quv7dcjhioe4pj9fl8v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
